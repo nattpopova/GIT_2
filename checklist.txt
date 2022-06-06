@@ -1,0 +1,20 @@
+Check list
+
+Registration:
+1. Email
+2. Social networks
+3. Field Validation
+
+Authorization:
+1. User activated
+2. User not activated
+3. Password recovery
+4. Field Validation
+
+Profile:
+1. Name change
+2. Change email
+3. change Password
+4. Field Validation
+5. Subscription
+6. Account deleting
